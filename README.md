@@ -1,0 +1,1 @@
+This forms accepts inputs from the user and updates it to the locally hosted MongoDb and displays the DB on clicking submit.
